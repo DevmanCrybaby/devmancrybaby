@@ -19,7 +19,7 @@ Sou um aspirante a carreira de dev, ansioso para aprender o máximo que a carrei
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcos-paulo-75a9521b7/)
 
-![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devmancrybaby/devmancrybaby/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **DevManCrybaby/devmancrybaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
