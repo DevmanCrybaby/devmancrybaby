@@ -1,10 +1,10 @@
-### Hi there 👋
+### Olá 👋
 
 ## Bio
 
-Aspirante a carreira de dev, ainda sem experiência.
+Sou um aspirante a carreira de dev, ansioso para aprender o máximo que a carreira de tecnologia pode oferecer, mas ainda sem experiência.
 
-#### Atualmente eu estou estudando
+#### 🌱 Atualmente eu estou estudando
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
